@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Queen Erin's Site
 markdown: redcarpet
 pygments: true
+baseurl: /qerin
