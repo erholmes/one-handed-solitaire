@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rules of One-Handed Solitaire
-categories: post
+categories: jekyll updates
 ---
 
 These are rules of One-Handed Solitaire:
