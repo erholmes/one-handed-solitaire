@@ -1,7 +1,7 @@
 name: One Handed Solitaire Project
 markdown: redcarpet
 pygments: true
-baseurl: /one-handed-solitaire
+baseurl: /one-handed-solitaire/
 authors:
 erholmes:
   name: Erin Holmes
